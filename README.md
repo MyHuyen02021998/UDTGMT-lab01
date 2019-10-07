@@ -15,7 +15,7 @@ Tổng số lượng tham số: 148,650.
 
 Mô hình 2: Dựa trên bài hướng dẫn [2] của tác giả Chinmay Rane.
 
-Conv2D ( size = 3 , ReLU)
+Conv2D ( size = 3 , ReLU) /n
 BatchNormalization
 Conv2D ( size = 3, ReLU)
 BatchNormalization
