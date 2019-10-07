@@ -64,5 +64,7 @@ Tổng số lượng tham số: 659,306.
 Độ chính xác trên tập test (20% từ tập fashion-mnist_train): 93.65%
 
 Tài liệu tham khảo:
+
 [1] https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist
+
 [2] https://www.kaggle.com/fuzzywizard/fashion-mnist-cnn-keras-accuracy-93
